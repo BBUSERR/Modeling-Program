@@ -1,0 +1,7 @@
+# Blender v2.93.5 OBJ File: ''
+# www.blender.org
+o Triangle
+v 0.0 0.7 0.0
+v -0.4 0.1 0.0
+v 0.4 0.1 0.0
+f 1 2 3
